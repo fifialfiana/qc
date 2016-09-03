@@ -1,9 +1,7 @@
-﻿
-Class Web: https://sites.google.com/site/statpnu/courses/quality
 
-R Language: https://www.r-project.org/
+# R Language: https://www.r-project.org/
 
-R Studio: https://www.rstudio.com/products/rstudio/download/
+# R Studio: https://www.rstudio.com/products/rstudio/download/
 
 # help.start( ), help("name"), ?name
 
